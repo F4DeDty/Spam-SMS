@@ -13,6 +13,6 @@ $ gem install lolcat
 
 $ git clone https://github.com/F4DeDty/Spam-SMS
 
-$ cd Spam-SNS
+$ cd Spam-SMS
 
 $ bash spam.sh
