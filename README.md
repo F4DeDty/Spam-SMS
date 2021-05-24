@@ -11,8 +11,8 @@ $ pip2 install requests
 
 $ pip install termcolor
 
-$ git clone https://github.com/F4DeDty/spam-SMS
+$ git clone https://github.com/F4DeDty/Spam-SMS
 
-$ cd attack-spam
+$ cd Spam-SNS
 
 $ python spam.py
