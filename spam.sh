@@ -10,14 +10,14 @@ echo ' |Tools : Spam SMS                                | '  | lolcat
 echo ' <×======================================×> '  | lolcat
 echo ' '  | lolcat
 
-echo '<===========================>' | lolcat
+echo '<===========================> '  | lolcat
 echo ' |  tools spam sms |' | lolcat
-echo ' fitur spam akan bertambah lain waktu'  | lolcat
-echo '<===========================>' | lolcat
-echo '1. spam mapclub' | lolcat
-echo '2. spam tri' | lolcat
+echo ' fitur spam akan bertambah lain waktu  '  | lolcat
+echo '<===========================> '  | lolcat
+echo '1. spam mapclub '  | lolcat
+echo '2. spam tri '  | lolcat
 echo '0.exit '  | lolcat
-<===========================>' | lolcat
+<===========================> '  | lolcat
 read -p 'Pilih Mana  : ' pil; 
 
 if [ $pil = '1' ]
