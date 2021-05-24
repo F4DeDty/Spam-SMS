@@ -2,21 +2,21 @@
 
 
 clear
-echo ' <×======================================×> ' | lolcat
+echo ' <×======================================×> '  |  lolcat
 echo ' |Code by : Mr.FaDedTy                          | '  | lolcat
 echo ' |Github : https://github.com/F4DeDty| '  | lolcat
 echo ' |Team :  3XPLOIT.ID                               | '  | lolcat
 echo ' |Tools : Spam SMS                                | '  | lolcat
-echo ' <×======================================×> '  | lolcat
+echo ' <×======================================×> '  |  lolcat
 echo ' '  | lolcat
 
-echo '<===========================> '  | lolcat
-echo ' |  tools spam sms |' | lolcat
+echo ' <===========================> '  | lolcat
+echo ' tools spam sms |' | lolcat
 echo ' fitur spam akan bertambah lain waktu  '  | lolcat
-echo '<===========================> '  | lolcat
-echo '1. spam mapclub '  | lolcat
-echo '2. spam tri '  | lolcat
-echo '0.exit '  | lolcat
+echo ' <===========================> '  | lolcat
+echo ' 1. spam mapclub '  | lolcat
+echo ' 2. spam tri '  | lolcat
+echo ' 0.exit '  | lolcat
 <===========================> '  | lolcat
 read -p 'Pilih Mana  : ' pil; 
 
